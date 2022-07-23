@@ -479,7 +479,7 @@ p {
     .events{
         background-color: #a0aecd;
         width: 95%;
-        height: 350vh;
+        height: 310vh;
         margin: auto auto;
     }
     .row{
@@ -493,7 +493,7 @@ p {
     }
     /* explore */
     .explore{
-        height: 180vh;
+        height: 160vh;
         width: 95%;
     }
     .explore-content{
@@ -508,7 +508,7 @@ p {
     }
     .blog{
         margin-top: -590px;
-        height: 150vh;
+        height: 130vh;
         width: 95%;
         
     }
