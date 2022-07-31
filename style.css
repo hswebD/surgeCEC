@@ -435,7 +435,7 @@ p {
 {
     .menu-btn{
         display:flex;
-        margin-top:380px;
+        margin-top:80px;
         margin-right: 380px;
     }
     .navbar{
@@ -479,7 +479,7 @@ p {
     .events{
         background-color: #a0aecd;
         width: 95%;
-        height: 330vh;
+        height: 345vh;
         margin: auto auto;
     }
     .row{
