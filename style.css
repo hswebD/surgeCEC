@@ -479,8 +479,8 @@ p {
     .events{
         background-color: #a0aecd;
         width: 95%;
-        height: 350vh;
-        margin: auto auto;
+        height: 300vh;
+        
     }
     .row{
         flex-direction:column;
@@ -493,7 +493,6 @@ p {
     }
     /* explore */
     .explore{
-        margin-top: 500px;
         height: 160vh;
         width: 95%;
     }
@@ -508,15 +507,13 @@ p {
         font-size:4vmin;
     }
     .blog{
-        margin-top: -590px;
         height: 130vh;
         width: 95%;
-        margin: auto auto;
         
     }
     .blog .row{
         width: 100%;
-        margin-top: 650px;
+        
     }
     .blog .col{
         width: 100%;
