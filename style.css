@@ -480,6 +480,7 @@ p {
         background-color: #a0aecd;
         width: 95%;
         height: 320vh;
+        zoom: 1.0;
         
     }
     .row{
@@ -510,6 +511,7 @@ p {
     .blog{
         height: 130vh;
         width: 95%;
+         zoom: 1.0;
         
     }
     .blog .row{
