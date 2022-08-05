@@ -508,7 +508,7 @@ p {
         font-size:4vmin;
     }
     .blog{
-        height: 160vh;
+        height: 130vh;
         width: 95%;
         
     }
@@ -526,6 +526,7 @@ p {
     .image-gallery{
         justify-content: center;
         align-items: center;
+        margin-bottom:20px;
     }
     .image-gallery img{
         width: 90%;
