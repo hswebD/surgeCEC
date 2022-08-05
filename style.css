@@ -479,7 +479,7 @@ p {
     .events{
         background-color: #a0aecd;
         width: 95%;
-        height: 320vh;
+        height: 350vh;
         zoom: 1.0;
         
     }
@@ -497,6 +497,7 @@ p {
         margin-top: 500px;
         height: 160vh;
         width: 95%;
+        zoom: 1.0;
     }
     .explore-content{
         width: 100%;
@@ -543,6 +544,7 @@ p {
     .about-us{
         width: 95%;
         margin: auto auto;
+        zoom: 1.0;
     }
     .about-us .col{
         width: 100%;
