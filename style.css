@@ -490,6 +490,7 @@ p {
     }
     .col-img{
         max-width: 90%;
+        margin-bottom:20px;
     }
     /* explore */
     .explore{
@@ -541,7 +542,7 @@ p {
     /*about us*/
     .about-us{
         width: 95%;
-        margin: auto auto;
+       
     }
     .about-us .col{
         width: 100%;
