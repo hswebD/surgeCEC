@@ -536,10 +536,14 @@ p {
     .footer {
         padding: 10px;
     }
+    .slider{
+        width: 95%;
+        margin-top: 20px;
         
     /*about us*/
     .about-us{
         width: 95%;
+        margin:auto auto;
        
     }
     .about-us .col{
@@ -558,7 +562,7 @@ p {
         width: 100%;
     }
     .about-us .content-col p{
-        margin-left: 30px;
+        margin-left: 20px;
         margin-right: 20px;
     }
     
