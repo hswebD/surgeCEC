@@ -479,7 +479,7 @@ p {
     .events{
         background-color: #a0aecd;
         width: 90%;
-        height: 350vh;
+        height: 330vh;
         margin: auto auto;
     }
     .row{
@@ -495,6 +495,7 @@ p {
     .explore{
         height: 160vh;
         width: 95%;
+        margin: auto auto;
     }
     .explore-content{
         width: 100%;
@@ -510,6 +511,7 @@ p {
         margin-top: -590px;
         height: 130vh;
         width: 95%;
+        margin: auto auto;
         
     }
     .blog .row{
