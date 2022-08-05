@@ -478,8 +478,8 @@ p {
     /* Events */
     .events{
         background-color: #a0aecd;
-        width: 90%;
-        height: 330vh;
+        width: 95%;
+        height: 350vh;
         margin: auto auto;
     }
     .row{
@@ -493,9 +493,9 @@ p {
     }
     /* explore */
     .explore{
+        margin-top: 500px;
         height: 160vh;
         width: 95%;
-        margin: auto auto;
     }
     .explore-content{
         width: 100%;
@@ -523,6 +523,7 @@ p {
     }
     .blog .row p{
         margin-left: 20px;
+        margin-right: 20px;
     }
     .image-gallery{
         justify-content: center;
@@ -537,12 +538,14 @@ p {
     /*about us*/
     .about-us{
         width: 95%;
+        margin: auto auto;
     }
     .about-us .col{
         width: 100%;
         display: flex;
         justify-content: center;
         flex-direction: column;
+        margin: auto auto;
     }
     .about-us .content-col h4{
         color: rgb(4, 19, 34);
@@ -554,6 +557,7 @@ p {
     }
     .about-us .content-col p{
         margin-left: 30px;
+        margin-right: 20px;
     }
     
 }
