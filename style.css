@@ -493,6 +493,7 @@ p {
     }
     /* explore */
     .explore{
+        margin-top:150px;
         height: 160vh;
         width: 95%;
     }
