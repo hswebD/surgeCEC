@@ -479,7 +479,7 @@ p {
     .events{
         background-color: #a0aecd;
         width: 95%;
-        height: 350vh;
+        height: 400vh;
         zoom: 1.0;
         
     }
@@ -487,7 +487,7 @@ p {
         flex-direction:column;
     } 
     .row .col{
-        margin: 20px -100px;
+        margin: 20px 0px;
     }
     .col-img{
         max-width: 90%;
