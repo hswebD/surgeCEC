@@ -487,14 +487,14 @@ p {
         flex-direction:column;
     } 
     .row .col{
-        margin: 20px 0px;
+        margin: 20px -100px;
     }
     .col-img{
         max-width: 90%;
     }
     /* explore */
     .explore{
-        margin-top: 500px;
+        margin-top: 300px;
         height: 160vh;
         width: 95%;
         zoom: 1.0;
