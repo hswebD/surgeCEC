@@ -480,6 +480,7 @@ p {
         background-color: #a0aecd;
         width: 95%;
         height: 320vh;
+        margin-bottom:20px;
         
     }
     .row{
@@ -549,7 +550,7 @@ p {
         display: flex;
         justify-content: center;
         flex-direction: column;
-        margin: auto auto;
+       
     }
     .about-us .content-col h4{
         color: rgb(4, 19, 34);
