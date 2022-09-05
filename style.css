@@ -479,7 +479,7 @@ p {
     .events{
         background-color: #a0aecd;
         width: 95%;
-        height: 430vh;
+        height: 330vh;
         zoom: 1.0;
         
     }
@@ -548,6 +548,7 @@ p {
     .about-us{
         width: 95%;
         margin: auto auto;
+        height: 150vh;
         zoom: 1.0;
     }
     .about-us .col{
