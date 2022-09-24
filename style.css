@@ -304,7 +304,7 @@ p {
 .slider{
     background-color:wheat;
     width: 95%;
-    height: 105vh;
+    height: 115vh;
     margin: 80px auto;
     margin-top: 20px;
     overflow:hidden;
@@ -321,7 +321,8 @@ p {
 }
  .slider figure{
    position: relative;
-    width: 450vh;
+    width: 500%;
+     margin-bottom:20px;
     margin-left: auto;
     left: 0;
     animation: 15s slider infinite;
@@ -347,10 +348,10 @@ p {
     }
     25%{
         left: -100%;
-    }
+    }/*
     45%{
         left: -100%;
-    }/*
+    }
     50%{
         left: -200%;
     }
