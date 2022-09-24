@@ -249,7 +249,7 @@ p {
     height: 115vh;
     margin: 80px auto;
     margin-top: 20px;
-    column-gap: 40px;
+    column-gap: 20px;
 }
 .blog .row{
     display: flex;
@@ -268,7 +268,7 @@ p {
 .blog .image-gallery{
     display: flex;
     flex-wrap: wrap;
-    margin-top: 70px;
+    margin-top: 60px;
     width: 100%;
     align-items:center;
     justify-content: center;
