@@ -569,7 +569,7 @@ p {
     }
     .slider{
         width: 95%;
-        zoom: 1.0;
+        height:auto;
         margin-top: 20px;}
     .slider figure{
         width:606vh;
