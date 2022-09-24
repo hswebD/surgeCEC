@@ -348,10 +348,10 @@ p {
     }
     25%{
         left: -100%;
-    }/*
+    }
     45%{
         left: -100%;
-    }
+    }/*
     50%{
         left: -200%;
     }
@@ -572,7 +572,7 @@ p {
         height:auto;
         margin-top: 20px;}
     .slider figure{
-        width:303vh;
+        width:250%;
     }    
     
     /*about us*/
