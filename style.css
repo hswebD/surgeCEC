@@ -569,10 +569,9 @@ p {
     }
     .slider{
         width: 95%;
-        height:auto;
         margin-top: 20px;}
     .slider figure{
-        width:500%;
+        width:606%;
     }    
     
     /*about us*/
