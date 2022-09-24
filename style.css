@@ -321,7 +321,7 @@ p {
 }
  .slider figure{
    position: relative;
-    width: 606vh;
+    width: 500vh;
     margin-left: auto;
     left: 0;
     animation: 15s slider infinite;
