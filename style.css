@@ -633,6 +633,12 @@ p {
         width: 100%;
         
     }
+    .newsletter{
+        height: 135vh;
+        width: 95%;
+    }
+    .newsletter .row{
+        width: 100%;
     .newsletter .col{
         width: 100%;
     }
