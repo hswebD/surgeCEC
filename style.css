@@ -654,7 +654,7 @@ p {
     .about-us{
         width: 95%;
         
-        zoom: 1.0;
+        
     }
     .about-us .col{
         width: 95%;
@@ -669,7 +669,7 @@ p {
         margin-top: 0px;
         font-size: 4vmin;
         margin-left: 30px;
-        width: 100%;
+        width: 95%;
     }
     .about-us .content-col p{
         margin-left: 0px;
