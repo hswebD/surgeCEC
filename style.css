@@ -455,7 +455,6 @@ p {
 }
 .about-us{
     background-color:whitesmoke;
-    height:135vh;
     width: 95%;
     margin: 80px auto;
     margin-top: 20px;
@@ -654,7 +653,7 @@ p {
     /*about us*/
     .about-us{
         width: 95%;
-        margin: auto auto;
+        
         zoom: 1.0;
     }
     .about-us .col{
