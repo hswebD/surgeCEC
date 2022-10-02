@@ -595,6 +595,7 @@ p {
     }
     .blog{
         height: 130vh;
+        margin:auto auto;
         width: 95%;
         zoom: 1.0;
         
@@ -631,6 +632,7 @@ p {
         margin-top: 20px;}
     .newsletter{
         height: 135vh;
+        margin:auto auto;
         width: 95%;
         zoom:1.0;
     }
@@ -657,7 +659,9 @@ p {
     /*about us*/
     .about-us{
         width: 95%;
-height:105vh;          
+        margin:auto auto;
+        height:105vh;  
+        zoom:1.0;
         
     }
     .about-us .col{
