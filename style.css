@@ -623,6 +623,7 @@ p {
         width: 90%;
     }
     .footer {
+        margin-top:20px:
         padding: 10px;
     }
     .slider{
@@ -658,8 +659,8 @@ p {
     /*about us*/
     .about-us{
         width: 95%;
-        height:135vh;
-        margin:auto auto; 
+        
+        
         zoom:1.0;
         
     }
