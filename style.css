@@ -455,6 +455,7 @@ p {
 }
 .about-us{
     background-color:whitesmoke;
+    height:135vh;
     width: 95%;
     margin: 80px auto;
     margin-top: 20px;
