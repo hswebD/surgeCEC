@@ -658,8 +658,7 @@ p {
     /*about us*/
     .about-us{
         width: 95%;
-        margin:auto auto;
-        height:105vh;  
+        margin:auto auto; 
         zoom:1.0;
         
     }
