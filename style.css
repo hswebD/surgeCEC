@@ -633,10 +633,7 @@ p {
         width: 100%;
         
     }
-    .newsletter{
-        height: 135vh;
-        width: 95%;
-    }
+   
     .newsletter .row{
         width: 100%;
     .newsletter .col{
@@ -660,7 +657,7 @@ p {
         zoom: 1.0;
     }
     .about-us .col{
-        width: 100%;
+        width: 95%;
         display: flex;
         justify-content: center;
         flex-direction: column;
@@ -675,7 +672,7 @@ p {
         width: 100%;
     }
     .about-us .content-col p{
-        margin-left: 30px;
+        margin-left: 0px;
         margin-right: 20px;
     }
     
