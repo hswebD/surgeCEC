@@ -632,6 +632,7 @@ p {
     .newsletter{
         height: 135vh;
         width: 95%;
+        zoom:1.0;
     }
    
     .newsletter .row{
@@ -650,6 +651,7 @@ p {
     }
     .image-gallery img{
         width: 90%;
+        height:60%
     }
     
     /*about us*/
