@@ -618,6 +618,7 @@ p {
         
     }
     .image-gallery img{
+        height:50%;
         width: 90%;
     }
     .footer {
